@@ -228,7 +228,10 @@ body {
 
 }
 /*===========End of Sidebar Style=============*/
+
 /*===================End of Main Part Style*/
+
+/*==================Footer Style*/
 .footer{ 
     height: 70px;
     border: 1px solid black;
@@ -237,3 +240,4 @@ body {
     margin-top: 30px;
     margin-left: 40%;
 }
+/*=================End of Footer Style===============*/
